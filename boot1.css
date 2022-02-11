@@ -1,0 +1,256 @@
+ 
+
+header{
+    background:url(./img/bg.png)no-repeat;
+    background-size: cover;
+    background-position: center center ; 
+    padding: 0 0;
+    margin-bottom: 50px;
+    color: white;   
+  
+}
+.menu {
+    background-color: transparent;
+    border-color: transparent;
+}
+.content_video img{
+    width:100%;
+}
+.menu_1 {
+    color: white;
+    display: inline-block;
+}
+.header a{   
+    color: white;    
+}
+
+.request_1{
+   margin-top: 15px;
+    border: 1px solid red;
+    border-radius: 10px;
+}
+.request_1 a {
+    color: red;
+    padding: 4px; 
+}
+.request_1 a:hover{
+    color: yellow;
+}
+header .menu_1>li>a {
+    color:white !important;
+}
+header .menu_1>li>a:hover {
+    color:red !important;
+}
+.graphik img{
+    width:100%;
+}
+
+.header_title {
+    color: white;   
+    text-align: center;
+    width:50%;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+.header_title h1 {   
+    text-transform: capitalize;    
+}
+.header_title p {
+    font-size: 14px;
+}
+.form {
+    width: 40%;
+    margin: auto;
+}
+.form input:first-child {
+     width: 80%;
+     border-radius: 10px 0 0 10px;
+     height: 35px;
+     outline: none;     
+}
+.form input:last-child {
+    width: 18%;
+    border-radius: 0 10px 10px 0;
+    margin:1px 0 0 -5px;
+    height: 35px;
+    outline: none;
+    background: rgb(146, 14, 124)
+}
+
+
+.header_chat {
+    width: 40%;
+    margin: auto;
+    padding-bottom: 50px;
+    display: table;
+}
+.header_chat p{
+    padding-top: 10px;
+}
+.child_chat {
+    color: black;
+    background: white;    
+    margin: 10px;
+    border-radius: 60px;
+}
+.one {
+    width: 60%;
+    float: left;
+}
+.two {
+    width: 60%;
+    float: right;
+}
+.two p {
+    padding-left: 20px;
+}
+.content_x {   
+    font-family: 'Nunito Sans', sans-serif;
+}
+.content_x button {
+    background: rgb(216, 14, 108);
+    color: white;
+    border-radius: 20px;
+    border: none;
+    margin-top: 10px;
+    padding: 4px;
+}
+.content_x button:hover{
+    background: yellow;
+}
+.content_x a {
+    color: white;
+    margin: 10px;
+}
+
+.title_descripton {
+    padding: 10px;
+    font-family: 'Nunito Sans', sans-serif;
+     
+}
+.title_descripton_button a{
+    color:white !important;    
+}
+.learn_more a{
+    color: red;
+}
+.learn_more a:hover{
+    color: yellow;
+}
+.title_descripton h2{
+    font-weight: bold;
+      
+}
+.title{
+    width:83% ;
+    
+}
+.line {    
+    width: 40px;
+    height: 2px;
+    background: red;
+    margin: 5px 0 20px 0;
+}
+.descripton {
+    width: 70%;
+}
+.one_1 {    
+    border-right: 2px solid black;
+    text-align: left;
+}
+.data p{
+    text-align: center;
+    font-size: 40px;
+    padding-top: 10px;
+    
+}
+.content_video{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+.content_video h2{
+    font-weight: bold;
+}
+.content_video h4{
+    font-weight: bold;
+}
+.boost_sales {
+    width: 95%;
+    margin: auto;
+}
+.boost_sales img{
+    height: 30px;
+    width: 30px;
+}
+.boost{
+    padding: 20px 0 0 0;
+}
+.easy_and_fast_integration{
+    background: rgb(206, 192, 192);
+    font-family: 'Nunito Sans', sans-serif;
+    padding: 40px 0 40px 0;
+}
+.circle_text{
+    width: 100%;
+}
+.circle{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: gray;
+    float: left;
+}
+.text_1 {
+    float: left;
+    margin-left: 20px;
+}
+.img_111 img{
+    width: 100%;
+}
+.increas_sales {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+.increas_sales img {
+    width: 100%;
+    padding: 40px 0 40px 0;
+}
+.footer {
+    background:rgb(206, 192, 192);    
+}
+.footer_1{
+    width: 80%;
+    margin: auto;
+}
+.footer_1 img {
+    padding: 20px 0 20px 0;
+}
+.far fa-copyright {
+    color: gray;
+    height: 10px;
+    padding-top: 30px;
+}
+.icon_footer i {    
+    color: gray;
+}
+
+.text_footer {
+    width: 90%;
+    display: flex;
+}
+.text_footer h5 {
+    margin: 0 0 0 20px;
+    padding: 3px;
+}
+.icon_2 li {
+    padding: 0 10px;
+    font-size: 2em;
+    color: gray;
+}
+
+
